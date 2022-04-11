@@ -1,2 +1,2 @@
 # html-basic
-Hello this is commit 1
+Basic html stuff
