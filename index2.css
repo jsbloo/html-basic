@@ -1,0 +1,31 @@
+body{
+    color: red;
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+div{
+    border: 1px solid black;
+}
+
+#section1{
+    border: 1px solid blue;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+#section2{
+    border: 1px solid red;
+    width: 50%;
+    text-align: left;
+    margin: auto;
+}
+
+#blueP{
+    color: blue;
+}
